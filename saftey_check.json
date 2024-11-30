@@ -1,5 +1,5 @@
 {
-    "enabled": false,
-    "reason": "None",
+    "enabled": true,
+    "reason": "Captcha changed again, causing owo-dusk not to stop",
     "author": "echoquill"
 }
