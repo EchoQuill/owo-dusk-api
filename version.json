@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0.1",
-  "changelog": "Minor update to fix bugs etc",
+  "version": "2.0.0.2",
+  "changelog": "Fix huntbot spam",
   "important_update": false
 }
