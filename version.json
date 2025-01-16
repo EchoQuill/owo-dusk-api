@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "changelog": "Update from v1.7.0 to v2.0.0, more stable code!",
+  "version": "2.0.0.1",
+  "changelog": "Minor update to fix bugs etc",
   "important_update": false
 }
