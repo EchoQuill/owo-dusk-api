@@ -1,6 +1,6 @@
 {
   "available": true,
-  "title": "Exams ;(",
-  "content": "Since v2 has just released, there are some bugs(really small ones), I have exams so it will take me a bit to fix them, thanks for your understanding!",
-  "color" : "#eb3455"
+  "title": "Captcha stop having issues",
+  "content": "This issue went unnoticed but if your have bad net, its not reccomended to use owo-dusk rightnow as it doesnt stop if any accounts restart after disconnection if there is captcha. Please use owo-dusk at your own risk!",
+  "color" : "#eb8a94"
 }
