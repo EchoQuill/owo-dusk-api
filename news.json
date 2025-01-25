@@ -1,5 +1,5 @@
 {
-  "available": true,
+  "available": false,
   "title": "Captcha stop having issues",
   "content": "This issue went unnoticed but if your have bad net, its not reccomended to use owo-dusk rightnow as it doesnt stop if any accounts restart after disconnection if there is captcha. Please use owo-dusk at your own risk! A fix will be pushed soon!",
   "color" : "#eb8a94"
