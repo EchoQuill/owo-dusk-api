@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0.3",
-  "changelog": "Bug fix + updater",
+  "version": "2.0.0.4",
+  "changelog": "stop command sending when disconnected",
   "important_update": false
 }
