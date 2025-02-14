@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "changelog": "(lazy to write changelog)",
+  "version": "2.0.2",
+  "changelog": "Fix issues with state of accounts. run `python updater.py` to update!",
   "important_update": true
 }
