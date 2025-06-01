@@ -1,6 +1,6 @@
 {
-  "available": false,
-  "title": "Star owo-dusk!",
-  "content": "Last star was on January 26th—let’s change that! If you haven’t starred the repo yet, now’s the time. 😉 (totally not ChatGPT!)",
-  "color" : "#92c773"
+  "available": true,
+  "title": "2.1.0 update!",
+  "content": "Hi hello, there was an update to v2.1.0. This news will be available for a few days to warn users who are on `beta` branch :>. Check support server to update!",
+  "color" : "#4c1c9e"
 }
