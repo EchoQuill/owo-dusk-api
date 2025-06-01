@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "changelog": "Fix issues with state of accounts. run `python updater.py` to update!",
+  "version": "2.1.0",
+  "changelog": "Big and Massive update! Do update! (check support server on steps to update, or DM @echoquill)",
   "important_update": true
 }
