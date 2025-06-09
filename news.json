@@ -1,6 +1,6 @@
 {
-  "available": false,
-  "title": "2.1.0 update!",
-  "content": "Hi hello, there was an update to v2.1.0. This news will be available for a few days to warn users who are on `beta` branch :>. Check support server to update!",
+  "available": true,
+  "title": ".",
+  "content": "https://www.instagram.com/p/DKrA2vmAVqZ/ . The world is in a mess right now. I had hoped things would turn better somehow. (tip: news can be disabled through misc.json!)",
   "color" : "#4c1c9e"
 }
