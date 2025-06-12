@@ -2,5 +2,5 @@
   "available": true,
   "title": "Captcha issue",
   "content": "Due to a library issue, a patch fix had to be implemented to ensure no captcha is missed. But recently I heard a few users had some issue with code not stopping when captcha. This shouldnt happen but please keep an eye!",
-  "color" : "#4c1c9e"
+  "color" : "#eb3458"
 }
