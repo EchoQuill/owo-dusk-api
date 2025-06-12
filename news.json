@@ -1,6 +1,6 @@
 {
-  "available": false,
-  "title": ".",
-  "content": "https://www.instagram.com/p/DKrA2vmAVqZ/ . The world is in a mess right now. I had hoped things would turn better somehow. (tip: news can be disabled through misc.json!)",
+  "available": true,
+  "title": "Captcha issue",
+  "content": "Due to a library issue, a patch fix had to be implemented to ensure no captcha is missed. But recently I heard a few users had some issue with code not stopping when captcha. This shouldnt happen but please keep an eye!",
   "color" : "#4c1c9e"
 }
