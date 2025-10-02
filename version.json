@@ -1,5 +1,5 @@
 {
-  "version": "2.1.1",
-  "changelog": "Fixes bugs + fixes 404 error for termux users",
+  "version": "2.2.0",
+  "changelog": "New version out now, check discord for changelog + Guide to update",
   "important_update": true
 }
