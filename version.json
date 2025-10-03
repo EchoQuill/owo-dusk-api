@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "changelog": "New version out now, check discord for changelog + Guide to update",
-  "important_update": true
+  "version": "2.2.1",
+  "changelog": "Fixed Pray and Curse - if on v2.2.0 run `python updater.py` to update, otherwise check discord.",
+  "important_update": false
 }
