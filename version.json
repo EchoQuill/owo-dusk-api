@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
-  "changelog": "Fixed Updater not working - Check discord to update!",
+  "version": "2.2.3",
+  "changelog": "Fixed Update loop (invalid version) and issues with state of accounts",
   "important_update": true
 }
