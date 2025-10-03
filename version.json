@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
-  "changelog": "Fixed Update loop (invalid version) and issues with state of accounts",
+  "version": "2.2.5",
+  "changelog": "Fixed error with animal log causing error sometimes",
   "important_update": true
 }
