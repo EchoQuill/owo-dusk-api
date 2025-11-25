@@ -1,5 +1,5 @@
 {
-  "version": "2.2.5",
+  "version": "2.2.6",
   "changelog": "Fixed error with animal log causing error sometimes",
   "important_update": true
 }
