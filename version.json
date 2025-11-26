@@ -1,5 +1,5 @@
 {
-  "version": "2.2.6",
-  "changelog": "Fixed error with animal log causing error sometimes",
-  "important_update": true
+  "version": "2.2.7",
+  "changelog": "Forgot to remove debug logs.. This resolves it! Run `python updater.py` to update!",
+  "important_update": false
 }
