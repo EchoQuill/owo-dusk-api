@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
-  "changelog": "Reduce huntbot redundancy + Battle fix",
+  "version": "2.2.9",
+  "changelog": "Captcha misspell fix",
   "important_update": true
 }
