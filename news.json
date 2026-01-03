@@ -1,6 +1,6 @@
 {
   "available": true,
-  "title": "Just in case keep an eye for captcha!",
-  "content": "I believe I have fixed the cause in v2.2.9, but it was reported to me that owo-dusk did not stop during captcha in 2.2.8. If you are currently on 2.2.8 then please update.",
+  "title": "Make sure your owo-dusk version is 2.2.9!",
+  "content": "2.2.8 has issues detecting captchas. Older versions is fine but if on 2.2.8 then Update!",
   "color" : "#f2a0a4"
 }
