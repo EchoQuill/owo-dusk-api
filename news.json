@@ -1,6 +1,6 @@
 {
-  "available": false,
-  "title": "🎃",
-  "content": "OoooOooO0oOooOOOo0oOoooOooOoOOoOOOOOo00OooOo0Oooo",
-  "color" : "#FFA500"
+  "available": true,
+  "title": "Just in case keep an eye for captcha!",
+  "content": "I believe I have fixed the cause in v2.2.9, but it was reported to me that owo-dusk did not stop during captcha in 2.2.8. If you are currently on 2.2.8 then please update.",
+  "color" : "#f2a0a4"
 }
