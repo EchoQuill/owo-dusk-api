@@ -1,5 +1,5 @@
 {
-  "version": "2.2.9",
-  "changelog": "Captcha misspell fix",
+  "version": "2.2.10",
+  "changelog": "A few fixes related to captcha",
   "important_update": true
 }
