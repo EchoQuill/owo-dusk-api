@@ -1,5 +1,5 @@
 {
   "version": "2.3.0",
-  "changelog": "Blackjack + Boss battle",
+  "changelog": "Blackjack + Boss battle. If you get error after updating, try delating anything with 'db' or `sqlite` in it inside `utils/data` folder",
   "important_update": false
 }
