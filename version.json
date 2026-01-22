@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "changelog": "Add blackjack to config",
+  "version": "2.3.3",
+  "changelog": "Fix up boss battle spam issues.",
   "important_update": true
 }
