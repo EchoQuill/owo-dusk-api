@@ -1,5 +1,5 @@
 {
-  "version": "2.3.6",
-    "changelog": "Imrpove daily, cookie, and lottery commands!",
+  "version": "2.3.7",
+    "changelog": "Fix issues with gamble cash check and prevent sell/sac spam.",
   "important_update": false
 }
