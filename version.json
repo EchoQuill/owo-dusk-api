@@ -1,5 +1,5 @@
 {
-  "version": "2.3.7",
-    "changelog": "Fix issues with gamble cash check and prevent sell/sac spam.",
+  "version": "2.4.0",
+    "changelog": "Add captcha solving (paid hcaptcha, free image captcha). Make sure to run `python setup.py` after updating, new dependencies added!",
   "important_update": false
 }
