@@ -1,5 +1,5 @@
 {
-  "version": "2.4.1",
-    "changelog": "Improvements and revert to old discord.py-self",
+  "version": "2.4.2",
+    "changelog": "Improvements to captcha solver",
   "important_update": false
 }
