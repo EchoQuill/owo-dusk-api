@@ -1,5 +1,5 @@
 {
   "version": "2.4.4",
     "changelog": "Fixes auto website open not working",
-  "important_update": false
+  "important_update": true
 }
