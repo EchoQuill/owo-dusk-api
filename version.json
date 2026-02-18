@@ -1,5 +1,5 @@
 {
-  "version": "2.4.3",
-    "changelog": "Fixes image captcha solver (hopefully) and some minor changes",
+  "version": "2.4.4",
+    "changelog": "Fixes auto website open not working",
   "important_update": false
 }
