@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-    "changelog": "Improvements to captcha solver",
+  "version": "2.4.3",
+    "changelog": "Fixes image captcha solver (hopefully) and some minor changes",
   "important_update": false
 }
