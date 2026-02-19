@@ -1,5 +1,5 @@
 {
-  "version": "2.4.4",
-    "changelog": "Fixes auto website open not working",
-  "important_update": true
+  "version": "2.4.5",
+    "changelog": "Fix captcha url for auto open",
+  "important_update": false
 }
