@@ -1,5 +1,5 @@
 {
-  "available": true,
+  "available": false,
   "title": "Issues with captcha solver may make it charge you twice (60pts instead of 30)",
   "content": "Hello! It has came to my attention that due to a small oopsie in the code, the solver may be quering the task twice sometimes. Have exams so expect fix to take some time!",
   "color" : "#64eddd"
