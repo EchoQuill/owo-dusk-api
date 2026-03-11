@@ -1,5 +1,5 @@
 {
-  "version": "2.4.5",
-    "changelog": "Fix captcha url for auto open",
-  "important_update": false
+  "version": "2.4.6",
+    "changelog": "Fix captcha solver charging twice (60 pts) sometimes",
+  "important_update": true
 }
