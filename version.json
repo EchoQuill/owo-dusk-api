@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-    "changelog": "Fix captcha solver charging twice (60 pts) sometimes",
+  "version": "2.6.0",
+  "changelog": "Alot of fixes, alot of them! and certain enhancements",
   "important_update": true
 }
