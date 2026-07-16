@@ -1,6 +1,6 @@
 {
-  "available": false,
-  "title": "Global Sumud Flotilla sails... 🚢",
-  "content": "Keep an eye on it!",
-  "color" : "#3df6fc"
+  "available": true,
+  "title": "Have you updated yet?",
+  "content": "Latest version v2.6.2 is out now! Due to a bug, update message wasn't showing up. Please make sure to update if you haven't already!",
+  "color" : "#b37bdb"
 }
