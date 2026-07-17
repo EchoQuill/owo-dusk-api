@@ -1,5 +1,5 @@
 {
-  "version": "2.6.4",
-  "changelog": "NO_RICH not defined error fix",
+  "version": "2.6.5",
+  "changelog": "safety check issues should now be fixed",
   "important_update": true
 }
