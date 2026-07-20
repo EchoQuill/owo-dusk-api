@@ -1,5 +1,5 @@
 {
-  "available": true,
+  "available": false,
   "title": "Have you updated yet?",
   "content": "Latest version v2.6.4 is out now! Due to a bug, update message wasn't showing up. Please make sure to update if you haven't already!",
   "color" : "#b37bdb"
