@@ -1,5 +1,5 @@
 {
-  "version": "2.6.5",
-  "changelog": "safety check issues should now be fixed",
+  "version": "2.6.6",
+  "changelog": "sleep check time not correct",
   "important_update": true
 }
