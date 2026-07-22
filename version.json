@@ -1,5 +1,5 @@
 {
-  "version": "2.6.6",
-  "changelog": "sleep check time not correct",
-  "important_update": true
+  "version": "2.6.7",
+  "changelog": "Fixed rich module issue for setup for pc users",
+  "important_update": false
 }
