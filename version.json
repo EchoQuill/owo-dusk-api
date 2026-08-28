@@ -1,5 +1,5 @@
 {
-  "version": "2.6.7",
-  "changelog": "Fixed rich module issue for setup for pc users",
+  "version": "2.6.8",
+  "changelog": "Fixes + run command",
   "important_update": false
 }
