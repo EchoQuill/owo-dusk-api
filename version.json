@@ -1,5 +1,5 @@
 {
-  "version": "2.6.8",
-  "changelog": "Fixes + run command",
+  "version": "2.6.9",
+  "changelog": "Fixed event timestamp error + logo path",
   "important_update": true
 }
