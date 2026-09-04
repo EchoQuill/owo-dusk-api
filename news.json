@@ -1,5 +1,5 @@
 {
-  "available": true,
+  "available": false,
   "title": "Event error",
   "content": "If it shows event error even when you are on v2.6.9, please update again. I messed up with updatation slightly ;(",
   "color" : "#5c2e45"
